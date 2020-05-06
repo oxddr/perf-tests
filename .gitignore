@@ -1,5 +1,8 @@
 build
 
+# Binaries
+slo-monitor/slo-monitor
+
 # OSX leaves these everywhere on SMB shares
 ._*
 
